@@ -1,20 +1,15 @@
-<div style="border: 3px solid red; background-color: #fff0f0; padding: 15px; margin: 20px 0;">
-  <h1 style="color: darkred; text-align: center;">Custom Project Notice</h1>
-  <p style="font-size: 1.2em; text-align: center; color: black;">
-    This Project is a custom version created by me for my own use. People are welcome to use it, but full credit goes to the original content below.
-  </p>
-  <p style="font-size: 1.2em; text-align: center; color: black;">
-    I am working on updating this to include more features off the bat. This is still a WIP. 
-  </p>
-  <p style="font-size: 1.2em; text-align: center; color: black;">
-    Full credit goes to the Project Error Devs, you can check them out below:
-  </p>
-  <h2 style="font-size:2em;text-align:center;"><a href='https://projecterror.dev/'>Project Error Devs</a></h2>
-  <h2 style="font-size:2em;text-align:center;"><a href='https://github.com/project-error/fivem-react-boilerplate-lua?tab=readme-ov-file'>ORIGINAL REPO</a></h2>
+<div align="center">
 
-<p style="font-size: 1em; text-align: center; color: black;">
-    Original ReadMe Below
-</p>
+# Custom Project Notice
+
+This project is a custom version created by me for my own use. People are welcome to use it, but full credit goes to the original content below.
+
+I am working on updating this to include more features off the bat. **This is still a WIP.**
+
+Full credit goes to the [Project Error Devs](https://projecterror.dev/). You can check out the original repository [here](https://github.com/project-error/fivem-react-boilerplate-lua?tab=readme-ov-file).
+
+*Original ReadMe Below*
+  
 </div>
 
 
