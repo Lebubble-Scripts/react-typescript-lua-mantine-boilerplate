@@ -8,8 +8,22 @@ I am working on updating this to include more features off the bat. **This is st
 
 Full credit goes to the [Project Error Devs](https://projecterror.dev/). You can check out the original repository [here](https://github.com/project-error/fivem-react-boilerplate-lua?tab=readme-ov-file).
 
-*Original ReadMe Below*
-  
+## Custom Additions
+
+In this fork, I've integrated the Mantine UI library to deliver a custom, ready-to-use interface right out-of-the-box. These enhancements not only improve the project's visual appeal but also accelerate your development process with pre-built, styled components.
+
+### What's New?
+
+**Mantine Integration:** Enjoy a suite of pre-configured Mantine components that offer a modern and responsive UI without the need for additional setup.
+
+**Custom UI Enhancements:** Experience a tailored interface designed to improve interactivity and streamline your workflow.
+
+**Enhanced Developer Experience:** Benefit from a refined visual structure that complements the existing boilerplate while allowing room for future feature additions.
+
+These additions mark the beginning of continuous improvements aimed at creating a more cohesive and efficient development environment.
+
+
+*Original ReadMe Below*  
 </div>
 
 
